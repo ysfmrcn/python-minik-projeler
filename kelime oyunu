@@ -1,0 +1,6 @@
+singular_noun= input("Enter a singular noun: ") 
+adjective= input("Enter an adjective: ") 
+verb= input("Enter a verb: ")
+print( singular_noun +  " are 34 years old") 
+print("My car is " + adjective)
+print("I want to " + verb) 
