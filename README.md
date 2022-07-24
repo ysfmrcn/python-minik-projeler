@@ -1,0 +1,1 @@
+# python-minik-projeler
